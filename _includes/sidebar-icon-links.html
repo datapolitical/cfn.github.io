@@ -1,14 +1,9 @@
 <nav id="sidebar-icon-links">
   {% if site.hydeout.repo %}
-    <a id="github-link"
-       class="icon" title="Github Project" aria-label="Github Project"
-       href="{{ site.hydeout.repo }}">
+    <a id="coding-blog-link"
+       class="icon" title="Coding Blog" aria-label="Coding Blog"
+       href="http://www.cfn.io">
       {% include svg/github.svg %}
-    </a>
-    <a id="github-download-link"
-       class="icon" title="Download" aria-label="Download"
-       href="{{ site.hydeout.repo }}/archive/v{{ site.hydeout.version }}.zip">
-      {% include svg/download.svg %}
     </a>
   {% endif %}
 

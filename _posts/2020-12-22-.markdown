@@ -1,7 +1,0 @@
----
-title: ''
-date: 2020-12-22 11:33:40 Z
-author: Chris F. Nicholson
-layout: post
----
-

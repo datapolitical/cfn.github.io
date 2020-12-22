@@ -1,6 +1,7 @@
 ---
-layout: post
 title: I promise, this isn't about blogging
+date: 2012-08-27 00:00:00 Z
+layout: post
 description: How mobile has changed the way we think about composition 
 ---
 

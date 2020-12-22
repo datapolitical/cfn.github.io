@@ -1,8 +1,8 @@
 ---
+title: Arthur, "Say My Name."
+date: 2012-08-27 00:00:00 Z
 layout: post
-title: 'Arthur, "Say My Name."' 
-
-description: 'Thoughts on The Newsroom, Breaking Bad and Sports Night.' 
+description: Thoughts on The Newsroom, Breaking Bad and Sports Night.
 ---
 
 It sucked, and it was awesome.

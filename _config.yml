@@ -58,10 +58,6 @@ page_gen:
     dir: recipes
     extension: html
 
-permalink: "/recipes/"
-layout: page
-title:  "Recipes"  
-
 disqus:
   shortname:      hydeout
 

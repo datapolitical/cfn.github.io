@@ -1,6 +1,6 @@
 ---
 title: This is a blog post from notes
-date: 2020-12-22T03:13:07-08:00
+date: 2020-12-22 11:13:07 Z
 author: Chris F. Nicholson
 layout: post
 ---
